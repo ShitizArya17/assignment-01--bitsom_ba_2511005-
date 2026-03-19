@@ -1,1 +1,46 @@
-
+[
+  {
+    "product_id": "E001",
+    "name": "4K OLED TV",
+    "category": "Electronics",
+    "price": 75000,
+    "brand": "TechVision",
+    "specs": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "dimensions": {
+        "width_cm": 123,
+        "height_cm": 70,
+        "depth_cm": 10
+      }
+    },
+    "features": ["HDR", "Smart TV", "WiFi"],
+    "available": true
+  },
+  {
+    "product_id": "C001",
+    "name": "Men's Leather Jacket",
+    "category": "Clothing",
+    "price": 8500,
+    "brand": "UrbanWear",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Brown"],
+    "material": "Genuine Leather",
+    "in_stock": 15
+  },
+  {
+    "product_id": "G001",
+    "name": "Organic Almonds",
+    "category": "Groceries",
+    "price": 1200,
+    "brand": "Nature's Best",
+    "weight_grams": 500,
+    "expiry_date": "2024-12-31",
+    "nutritional_info": {
+      "calories_per_100g": 575,
+      "protein_g": 21,
+      "fat_g": 50
+    },
+    "organic": true
+  }
+]
